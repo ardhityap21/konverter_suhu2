@@ -74,6 +74,7 @@ class _MyAppState extends State<MyApp> {
                 SelectedDropDown: SelectedDropDown,
                 listSatuanSuhu: listSatuanSuhu,
                 onDropDownChanged: onDropDownChanged,
+                KonversiSuhu: KonversiSuhu,
               ),
               HasilKonversiSuhu(HasilPerhitungan: HasilPerhitungan),
               TombolKonversiSuhu(
